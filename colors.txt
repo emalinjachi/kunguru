@@ -1,0 +1,124 @@
+1-10:
+
+    Nyeusi - #000000 (Black)
+    Nyeupe - #ffffff (White)
+    Jekundu - #FF0000 (Red)
+    Bluu - #0000FF (Blue)
+    Kijani - #008000 (Green)
+    Njano - #FFFF00 (Yellow)
+    Chungwa - #FFA500 (Orange)
+    Zambarau - #800080 (Purple)
+    Kahawia - #A52A2A (Brown)
+    Pinki - #FFC0CB (Pink)
+
+11-20:
+
+    Kijivu - #808080 (Gray)
+    Nyekundu ya damu - #A00000 (Dark red)
+    Bluu ya anga - #87CEEB (Sky blue)
+    Njano ya jua - #FFD700 (Golden yellow)
+    Kijani kibichi - #00FF00 (Lime green)
+    Chungwa ya machungwa - #FF7F00 (Bright orange)
+    Zambarau ya mvinyo - #99004C (Wine purple)
+    Kahawia ya udongo - #7A4F01 (Clay brown)
+    Pinki ya waridi - #FBC0D7 (Light pink)
+    Kijivu cha fedha - #C0C0C0 (Silver gray)
+
+21-30:
+
+    Butu - #696969 (Dull gray)
+    Rangi ya maziwa - #F5F5F5 (Creamy white)
+    Nyeusi ya makaa - #262626 (Charcoal black)
+    Bluu ya bahari - #000080 (Navy blue)
+    Njano ya dhahabu - #FFD700 (Golden yellow)
+    Kijani kibichi cheupe - #BDF7BF (Chartreuse green)
+    Chungwa ya moto - #FF6347 (Fire orange)
+    Zambarau ya giza - #4B0082 (Deep purple)
+    Kahawia ya mbao - #8B4513 (Wood brown)
+    Pinki ya flamingo - #FC4160 (Hot pink)
+
+31-40:
+
+    Kijivu ya chuma - #707070 (Iron gray)
+    Nyekundu ya nyanya - #DC322F (Tomato red)
+    Bluu ya anga la usiku - #000033 (Midnight blue)
+    Njano ya bundi - #F5E614 (Sunflower yellow)
+    Kijani kibichi cha chokaa - #00FF00 (Lime green)
+    Chungwa ya karoti - #F7931E (Carrot orange)
+    Zambarau ya lavender - #BDB7D6 (Lavender purple)
+    Kahawia ya kahawa - #654321 (Coffee brown)
+    Pinki ya peach - #FFE5B4 (Peach pink)
+    Kijivu ya moshi - #949494 (Smoke gray)
+
+41-50:
+
+    Nyekundu ya mkaa - #800000 (Maroon red)
+    Bluu ya samawati - #001F3F (Navy blue)
+    Njano ya canary - #FFFF99 (Canary yellow)
+    Kijani kibichi cha basil - #87A925 (Basil green)
+    Chungwa ya tangawizi - #C62828 (Ginger orange)
+    Zambarau ya divai - #6A1B9A (Plum purple)
+    Kahawia ya chokoleti - #7F3318 (Chocolate brown)
+
+51-60:
+
+    Nyeusi ya usiku - #000000 (Black)
+    Nyeupe ya theluji - #ffffff (White)
+    Jekundu ya mkaa - #7A3929 (Reddish brown)
+    Bluu ya mawimbi - #3366CC (Ocean blue)
+    Kijani ya majani - #50C878 (Forest green)
+    Njano ya mahindi - #FFD700 (Golden yellow)
+    Chungwa ya machungwa ya damu - #DC322F (Orange-red)
+    Zambarau ya ukungu - #D6C0DC (Light lavender)
+    Kahawia ya mchanga - #C6A066 (Sandy brown)
+    Pinki ya flamingo - #FC4160 (Hot pink)
+
+61-70:
+
+    Kijivu ya mkaa - #4D4D4D (Charcoal gray)
+    Kivuli - #333333 (Dark gray)
+    Taa - #FFFFFF (White)
+    Mwanga - #FFFFCC (Light yellow)
+    Kung'aa - #FFFFFF (White)
+    Rangi ya upinde wa mvua - Multicolor (Use gradient generator)
+    Rangi ya maua - Variable (Consult specific flower colors)
+    Rangi ya machweo - Variable (Use sunset palette generator)
+    Rangi ya machweo - Variable (Use sunrise palette generator)
+    Rangi ya msitu - Variable (Use forest palette generator)
+
+71-80:
+
+    Rangi ya bahari - Variable (Use ocean palette generator)
+    Rangi ya jangwa - Variable (Use desert palette generator)
+    Rangi ya savanna - Variable (Use savanna palette generator)
+    Rangi ya matumbawe - Variable (Use coral palette generator)
+    Rangi ya nyota - Variable (Use star color reference)
+    Rangi ya jua - #FFFF00 (Yellow)
+    Rangi ya mwezi - #F8F8F8 (Light gray)
+    Kumeta - #FFFFFF (White with shimmer effect)
+    Kung'aa kwa dhahabu - #FFD700 (Gold with shimmer effect)
+    Kung'aa kwa fedha - #C0C0C0 (Silver with shimmer effect)
+
+81-90:
+
+    Kung'aa kwa almasi - #FFFFFF (White with sparkle effect)
+    Kung'aa kwa lulu - #F5F5F5 (White with pearlescent sheen)
+    Kung'aa kwa upinde wa mvua - Multicolor with shimmer (Use gradient generator with shimmer effect)
+    Kung'aa kwa madoa ya mafuta - #FFFFFF (White with iridescent sheen)
+    Kung'aa kwa nundu - #FFFFFF (White with pearlescent sheen)
+    Kung'aa kwa metali - Variable (Use specific metal color with metallic sheen)
+    Kung'aa kwa hariri - #FFFFFF (White with silky sheen)
+    Kung'aa kwa glasi - #FFFFFF (White with glassy shine)
+    Kung'aa kwa jicho la paka - #6C7283 (Greenish gray with shimmer)
+    Kung'aa kwa moto - Variable (Use fire color palette with glow effect)
+
+91-100:
+
+    Kung'aa kwa umeme - #FFFFFF (White with bright flash effect)
+    Kung'aa kwa nyota angavu - #FFFFFF (White with bright star-like shimmer)
+    Kung'aa kwa taa ya usiku - Variable (Use specific nightlight color with soft glow)
+    Kung'aa kwa mshumaa - #FDFCC5 (Warm yellow with candlelight glow)
+    Kung'aa kwa jua machweo - Variable (Use sunrise palette with shimmer effect)
+    Kung'aa kwa jua machweo - Variable (Use sunset palette with shimmer effect)
+    Kung'aa kwa dhaha
+
